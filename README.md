@@ -1,3 +1,7 @@
+# OUTDATED
+**This repository is outdated and should not be used. Check out the [DarkMode repo](https://github.com/TCRF/DarkMode) on the official [TCRF Github account](https://github.com/TCRF) instead for a more updated version.**
+
+
 # TCRFDark
 A custom "dark mode" theme I created for [The Cutting Room Floor](https://tcrf.net).
 
